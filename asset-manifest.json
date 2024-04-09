@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ski_app/static/css/main.9bac2040.css",
+    "main.js": "/ski_app/static/js/main.e340f0ad.js",
+    "index.html": "/ski_app/index.html",
+    "main.9bac2040.css.map": "/ski_app/static/css/main.9bac2040.css.map",
+    "main.e340f0ad.js.map": "/ski_app/static/js/main.e340f0ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bac2040.css",
+    "static/js/main.e340f0ad.js"
+  ]
+}
