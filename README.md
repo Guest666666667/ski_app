@@ -6,6 +6,10 @@ The original code for this repository was derived from the group assignment, see
 
 https://mun-comp-6905-group-12-ski-routing-app.vercel.app/map
 
+
+or
+https://guest666666667.github.io/ski_app
+
 ## Directory Structure
 
 - `doc`: This directory contains all the project-related documents and diagrams.
